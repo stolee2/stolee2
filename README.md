@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Stole Ristov  
+- 👋 Hi, I’m Stole Ristov  
 - 👀 I’m interested in  Coding
 - 🌱 I’m currently learning PHP
 
